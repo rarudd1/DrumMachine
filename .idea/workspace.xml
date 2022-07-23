@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a13b32a7-2984-4edb-96c8-f7dee8509896" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Drum Machine.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658589608637</updated>
       <workItem from="1658589611219" duration="3224000" />
-      <workItem from="1658593825068" duration="1344000" />
+      <workItem from="1658593825068" duration="3110000" />
     </task>
     <servers />
   </component>
@@ -106,10 +80,14 @@
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
     <state x="1340" y="196" width="2239" height="1667" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2060@0.0.3840.2060" timestamp="1658590436527" />
-    <state x="1608" y="770" key="Github.ShareDialog" timestamp="1658591591436">
+    <state x="1401" y="733" key="Github.CreatePullRequestDialog" timestamp="1658595478770">
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
-    <state x="1608" y="770" key="Github.ShareDialog/0.0.3840.2060@0.0.3840.2060" timestamp="1658591591436" />
+    <state x="1401" y="733" key="Github.CreatePullRequestDialog/0.0.3840.2060@0.0.3840.2060" timestamp="1658595478770" />
+    <state x="1608" y="770" key="Github.ShareDialog" timestamp="1658595998251">
+      <screen x="0" y="0" width="3840" height="2060" />
+    </state>
+    <state x="1608" y="770" key="Github.ShareDialog/0.0.3840.2060@0.0.3840.2060" timestamp="1658595998251" />
     <state width="3784" height="475" key="GridCell.Tab.0.bottom" timestamp="1658593455348">
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
@@ -126,13 +104,17 @@
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
     <state width="3784" height="475" key="GridCell.Tab.0.right/0.0.3840.2060@0.0.3840.2060" timestamp="1658593455348" />
-    <state x="904" y="353" key="Vcs.Push.Dialog.v2" timestamp="1658595170106">
+    <state x="904" y="353" key="Vcs.Push.Dialog.v2" timestamp="1658595962543">
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
-    <state x="904" y="353" key="Vcs.Push.Dialog.v2/0.0.3840.2060@0.0.3840.2060" timestamp="1658595170106" />
+    <state x="904" y="353" key="Vcs.Push.Dialog.v2/0.0.3840.2060@0.0.3840.2060" timestamp="1658595962543" />
     <state x="1435" y="797" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658595181552">
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
     <state x="1435" y="797" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3840.2060@0.0.3840.2060" timestamp="1658595181552" />
+    <state x="1379" y="508" key="git4idea.merge.GitMergeDialog" timestamp="1658595409214">
+      <screen x="0" y="0" width="3840" height="2060" />
+    </state>
+    <state x="1379" y="508" key="git4idea.merge.GitMergeDialog/0.0.3840.2060@0.0.3840.2060" timestamp="1658595409214" />
   </component>
 </project>
